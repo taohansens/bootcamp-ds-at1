@@ -3,21 +3,20 @@
 </h4>
 
 <p align="center">
-  <a href="#devsuperior-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Atividade</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./README-en.md">Translate to English</a>&nbsp;&nbsp;&nbsp;
+  <a href="#devsuperior-tecnologias">Tecnology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Lesson</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="./README-en.md">Traduzir para o Português</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
-## 💻 Atividade
+## 💻 Lesson
 
-Projeto contendo um CRUD completo de web services REST para acessar recursos de clientes, contendo as cinco operações básicas:
-- Busca paginada de clientes
-- Busca de clientes por id
-- Inserir novo cliente
-- Atualizar cliente
-- Deletar cliente
-
+Project containing a complete CRUD of REST web services to access client resources, with the five basic operations:
+- Client page search
+- Client search by id
+- Insert new Client
+- Update Client
+- Delete Client
 
 ## :link: Endpoints
 - POST - /clients
@@ -54,7 +53,7 @@ Example: /clients?page=0?direction=ASC?linesPerPage=5?OrderBy=name
 
 ## :beginner: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes ferramentas/tecnologias:
+This project was developed with the following tools/technologies:
 <h1 align="center">
     <img alt="SpringLogo" title="#spring" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="200px" href="https://spring.io/why-spring" />
 </h1>
@@ -62,5 +61,5 @@ Esse projeto foi desenvolvido com as seguintes ferramentas/tecnologias:
 
 - [Spring v2.6.4](https://spring.io/why-spring)
 - [Java JDK 17](https://jdk.java.net/17/)
-- [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)   
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)   
 - [Postman](https://www.postman.com/company/about-postman/)
