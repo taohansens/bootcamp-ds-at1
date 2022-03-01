@@ -1,15 +1,16 @@
 <h4 align="center">
-  :bookmark_tabs: BootCamp DevSuperior | Atividade - Capítulo 1
+  :bookmark_tabs: BootCamp DevSuperior | Lesson - Chapter 1
 </h4>
 
 <p align="center">
-  <a href="#devsuperior-tecnologias">Tecnology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Lesson</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#lesson">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#endpoints">Endpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologies">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="./README-en.md">Traduzir para o Português</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
-## 💻 Lesson
+## 💻 <a name="lesson"> Project</a>
 
 Project containing a complete CRUD of REST web services to access client resources, with the five basic operations:
 - Client page search
@@ -18,7 +19,7 @@ Project containing a complete CRUD of REST web services to access client resourc
 - Update Client
 - Delete Client
 
-## :link: Endpoints
+## :link: <a name="endpoints">Endpoints</a>
 - POST - /clients
 #### Create a client.
 ```
@@ -51,7 +52,7 @@ Example: /clients?page=0?direction=ASC?linesPerPage=5?OrderBy=name
 
 <br>
 
-## :beginner: Tecnologias
+## :beginner: <a name="tecnologies">Tecnologies</a>
 
 This project was developed with the following tools/technologies:
 <h1 align="center">
