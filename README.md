@@ -3,13 +3,14 @@
 </h4>
 
 <p align="center">
-  <a href="#devsuperior-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Atividade</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#atividade">Atividade</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#endpoints">Endpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="./README-en.md">Translate to English</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
-## 💻 Atividade
+## 💻 <a name="atividade"> Atividade</a>
 
 Projeto contendo um CRUD completo de web services REST para acessar recursos de clientes, contendo as cinco operações básicas:
 - Busca paginada de clientes
@@ -19,7 +20,7 @@ Projeto contendo um CRUD completo de web services REST para acessar recursos de 
 - Deletar cliente
 
 
-## :link: Endpoints
+## :link: <a name="endpoints"> Endpoints</a>
 - POST - /clients
 #### Create a client.
 ```
@@ -52,7 +53,7 @@ Example: /clients?page=0?direction=ASC?linesPerPage=5?OrderBy=name
 
 <br>
 
-## :beginner: Tecnologias
+## :beginner: <a name="tecnologias"> Tecnologias</a>
 
 Esse projeto foi desenvolvido com as seguintes ferramentas/tecnologias:
 <h1 align="center">
